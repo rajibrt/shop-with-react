@@ -1,0 +1,39 @@
+/* Remove padding and margin */ 
+*  
+    { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+}
+
+
+.main{
+    width: 100vw;
+    height: 100vh;
+    background-color: rgb(49, 49, 49);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+
+
+}
+
+.main a{
+    text-decoration: none;
+    background-color: yellow;
+    color: rgb(80, 80, 80);
+    padding: 6px 10px;
+    margin: 10px;
+    font-weight: 500;
+    border-radius: 6px;
+}
+
+.main a:hover{
+    color: black;
+}
+.main h2{
+    color: white;
+    margin: 30px;
+}

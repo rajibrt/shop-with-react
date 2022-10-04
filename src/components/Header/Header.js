@@ -7,10 +7,10 @@ const Header = () => {
     <div>
       <div className="top-bar">
         <div className="left-top">
-          <p>Left Text</p>
+          <a href="tel:+8801711380679">Call: 01711-380-679 </a>
         </div>
         <div className="right-top">
-          <p>Left Text</p>
+          <p>Right Text</p>
         </div>
       </div>
       <nav className="header">

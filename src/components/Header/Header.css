@@ -12,6 +12,15 @@
     margin: 0;
 }
 
+.left-top a{
+    text-decoration: none;
+    color: white;
+}
+
+.left-top a:hover{
+    color: orange;
+}
+
 
 .header{
     background-color: orange;
@@ -24,4 +33,8 @@
     font-size: 1.2rem;
     font-weight: 500;
     padding: 10px;
+}
+
+.header a:hover{
+    color: rgb(150, 22, 0);
 }
