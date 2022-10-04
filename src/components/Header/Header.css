@@ -1,0 +1,27 @@
+.top-bar{
+    background-color: rgb(76, 0, 0);
+    color: white;
+    margin: 0;
+    padding: 4px 10%;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.top-bar p{
+    margin: 0;
+}
+
+
+.header{
+    background-color: orange;
+    padding: 14px 0;
+}
+
+.header a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 500;
+    padding: 10px;
+}
